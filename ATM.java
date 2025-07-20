@@ -83,7 +83,7 @@ class User implements Serializable {
     }
 }
 
-public class ATM1 {
+public class ATM {
     private static final String DATA_FILE = "users.dat";
     private static HashMap<String, User> users;
 
