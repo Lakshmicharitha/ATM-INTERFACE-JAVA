@@ -45,13 +45,7 @@ In Command Prompt -> Copy paste in Notepad -> Save as ATM.java -> Go to cmd -> j
 
 ### 🏦 ATM Main Menu
 ![ATM Main Menu](atm1.png)
-
-### 🔐 User Login
-![User Login](atm2.png)
-
-### 💰 Deposit and Mini Statement
-![Deposit and Statement](atm3.png)
-
-### 🔧 Admin Panel
-![Admin Panel](atm4.png)
+(atm2.png)
+(atm3.png)
+(atm4.png)
 
