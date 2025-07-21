@@ -43,9 +43,9 @@ In Command Prompt -> Copy paste in Notepad -> Save as ATM.java -> Go to cmd -> j
 
 ## 🖼 Output Screenshots
 
-### 🏦 ATM Main Menu
-![ATM Main Menu](atm1.png)
-(atm2.png)
-(atm3.png)
-(atm4.png)
+![ATM1](atm1.png)
+![ATM2](atm2.png)
+![ATM3](atm3.png)
+![ATM4](atm4.png)
+
 
